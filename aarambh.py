@@ -934,7 +934,7 @@ class FileRecoveryToolGUI(QMainWindow):
         """Initialize the GUI."""
         super().__init__()
         self.setWindowTitle("Phoenix: Lost Data Retrieval Tool")
-        self.setWindowIcon(QIcon("icon.png"))
+        self.setWindowIcon(QIcon("aarambh_icon.png"))
         self.setMinimumSize(800, 600)
         self.setGeometry(100, 100, 900, 600)
         self.found_files = {}  # Store found files

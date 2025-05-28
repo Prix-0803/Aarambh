@@ -21,7 +21,7 @@ On Windows: venv\Scripts\activate
 
 3. Install dependencies: pip install -r requirements.txt
 
-4. Run the script: python file_recovery_tool.py
+4. Run the script: python aarambh.py
 
 
 ## Usage

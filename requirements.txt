@@ -1,0 +1,3 @@
+PyQt6==6.7.0
+pywin32==306
+charset-normalizer==3.3.2

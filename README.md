@@ -17,8 +17,7 @@ A Python-based tool to recover deleted files from drives on Windows. It supports
 1. Clone the repository: git clone https://github.com/Prix-0803/Aarambh.git cd your-repo
 
 2. Create a virtual environment (optional but recommended): python -m venv venv source venv/bin/activate 
-
-# On Windows: venv\Scripts\activate
+On Windows: venv\Scripts\activate
 
 3. Install dependencies: pip install -r requirements.txt
 
